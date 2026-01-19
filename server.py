@@ -1,11 +1,6 @@
 #!/usr/bin/env python3
 """
 RS10X CODE ANALYSIS SERVER - Railway Deployment
-
-
-#!/usr/bin/env python3
-"""
-RS10X CODE ANALYSIS SERVER - Railway Deployment
 ================================================
 Flask backend for codebase analysis with Supabase persistence.
 
