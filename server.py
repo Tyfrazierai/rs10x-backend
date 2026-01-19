@@ -1,5 +1,5 @@
 
-Copy
+
 
 #!/usr/bin/env python3
 """
